@@ -21,3 +21,6 @@ A Blog Project
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+|Endpoint | Functionality|HTTP METHOD|
+| ------- | ------------ |-----------|
