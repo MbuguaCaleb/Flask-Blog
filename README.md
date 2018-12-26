@@ -1,9 +1,9 @@
 # Flask-Blog
 A Blog Project
 
-|Endpoint                |Functionality                    |HTTP Method
+| Endpoint                | Functionality                  | HTTP Method |
 |........................|.................................|
-POST /auth/signup        |Register a user                  |POST
+|POST /auth/signup       | Register a user                  | POST|
 |POST /auth/signup       |Register a user                  |POST
 |POST /auth/login        |Login a user                     |POST
 |GET /questions          |Fetch all questions              |GET
